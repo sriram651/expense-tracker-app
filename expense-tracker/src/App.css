@@ -1,0 +1,25 @@
+/* header */
+
+.header{
+  border: 2px solid black;
+  padding:2rem ;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+}
+.App{
+  width: 60%;
+  margin: 0 auto;
+}
+.input{
+  padding: .5rem;
+}
+button{
+  padding: .5rem;
+  margin-right: 1rem;
+  margin-top: .5rem;
+}
+.transaction-div{
+  border: 2px solid black;
+  border-radius: 1rem;
+  padding:3rem;
+}
